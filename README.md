@@ -1,3 +1,2 @@
-test
-WE ARE YOUNG
-3TH UPDATE
+Normally Python Exercise
+20240321 update to 14
